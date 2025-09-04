@@ -1,4 +1,4 @@
-# Digital Signal Processing 
+# Digital Signal Processing -- Coursework 2024
 
 This repository contains **five DSP Experiments** demonstrating digital signal processing concepts applied to audio, biomedical, and image data.  
 
