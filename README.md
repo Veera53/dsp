@@ -1,4 +1,4 @@
-# DSP Portfolio – Python / Jupyter Notebooks
+# Digital Signal Processing 
 
 This repository contains **five DSP Experiments** demonstrating digital signal processing concepts applied to audio, biomedical, and image data.  
 
